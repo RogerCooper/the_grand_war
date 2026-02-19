@@ -105,7 +105,6 @@ arcadia.png (1213,1049)
 entakara.png (837,1738)
 thesso.png (269,887)
 remutes.png  (5115,1925)
-<!-- arjerg.png (498,452) -->
 icolesus.png (503,821)
 sygzin.png (513,685)
 yarkuta.png (1054,459)
